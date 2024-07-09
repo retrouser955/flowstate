@@ -1,0 +1,11 @@
+{
+    "name": "@flowstate/basenodes",
+    "version": "0.0.1-beta",
+    "main": "dist/index.js",
+    "devDependencies": {
+        "@flowstate/tsconfig": "workspace:^"
+    },
+    "scripts": {
+        "build": "tsup"
+    }
+}

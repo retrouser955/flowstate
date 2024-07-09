@@ -1,0 +1,4 @@
+{
+    "extends": "@flowstate/tsconfig/typescript.json",
+    "include": ["lib/**/*.ts"]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "@flowstate/headless",
+    "version": "0.0.1-beta",
+    "main": "dist/index.js",
+    "devDependencies": {
+        "@flowstate/basenodes": "workspace:^",
+        "@flowstate/tsconfig": "workspace:^"
+    },
+    "scripts": {
+        "build": "tsup"
+    }
+}
